@@ -3,6 +3,6 @@ function demo() {
 	console.log("this is a new function");
 }
 
-//some comments added
-
-function demo2() {}
+function demo2() {
+	console.log("line added ont he server");
+}
