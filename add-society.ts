@@ -3,4 +3,6 @@ function demo() {
 	console.log("this is a new function");
 }
 
+//some comments added
+
 function demo2() {}
